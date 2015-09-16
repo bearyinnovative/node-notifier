@@ -23,7 +23,7 @@ Usage
 
  */
 var path = require('path'),
-    notifier = path.resolve(__dirname, '../vendor/notifu/notifu'),
+    notifier = path.resolve(__dirname, '../vendor/notifu/notifu.exe'),
     utils = require('../lib/utils'),
     checkGrowl = require('../lib/checkGrowl'),
     Toaster = require('./toaster'),
